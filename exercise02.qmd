@@ -84,6 +84,30 @@ Consider `is.na()` to identify indeces of missing positions.
 # Write answer here
 ```
 
+### Create a data frame
+
+Create a data frame containing the following information:
+  name |age |weight |  eye| group
+Paul  | 16  | 57.0 |green  |   1
+ Mary  |16   |50.0  |blue   |  1
+ Sara  |16   |52.6 |black   |  2
+ John  |17   |65.3 | blue    | 2
+
+```{r}
+# Write answer here
+```
+
+Assign the data frame to a variable named `classroom`.
+
+Describe the type of variables in `classroom`.
+
+Which data structure would you use in base Python?
+
+```{python}
+# Write answer here
+```
+
+
 
 ## `mtcars`
 
