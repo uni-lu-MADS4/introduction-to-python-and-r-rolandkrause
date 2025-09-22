@@ -17,7 +17,7 @@ embed-resources: true
  - Calculate `2 + 6 * 5 ^ 2`
  
 ```{r}
-# Write answer here
+2 + 6
 ```
 
 
